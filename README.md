@@ -7,7 +7,7 @@ by :
 > Visiongo Co., Ltd.
 > 2020.06.23
 
-We annotated the database with bounding boxes as well as a temporal syncronization RGB / IR and a cropping of the IR to reduce it to the field of view of the RGB.
+We annotated the dataset with bounding boxes as well as a temporal syncronization RGB / IR and a cropping of the IR to reduce it to the field of view of the RGB.
 
 For each video there are :
 - BBOX : the folder containing the annotations
